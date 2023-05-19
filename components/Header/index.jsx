@@ -10,7 +10,6 @@ export default function Header() {
 				<div className="flex gap-x-3 text-white lg:border-l lg:pl-6">
 					<Link href="/">Home</Link>
 					<Link href="/about">About</Link>
-					<Link href="/projects">Projects</Link>
 				</div>
 
 				<div className="flex gap-x-3 text-white text-opacity-50 lg:border-l lg:pl-6 text-xs">
